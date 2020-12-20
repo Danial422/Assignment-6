@@ -1,0 +1,375 @@
+@media (min-width: 992px)
+{
+header{
+    color: aliceblue;
+    
+ }
+.container-fluid-fluid-fluid{
+    margin-top: 0%;
+  }
+ .navbar{
+    display: flex;
+    align-items: center;
+    padding: .5rem 1rem;
+    margin-top: 10px;
+ }
+ #ahmad{
+    max-width: 230px;
+    margin-top: 0%;
+    padding-top: 1.5%;
+ }
+ #zeshan{
+    padding-right: 70px;
+    font-weight: bold;
+ }
+}
+#sour{
+    max-width: 100px;
+}
+body{
+    background-color: black;
+}
+.container-fluid-fluid{
+    background-color: white;
+}
+#pakistan{
+    margin-top: 50px;
+    color: white;
+     
+}
+#blt{
+    color: white;
+}
+h3{
+    margin-left: 150px;
+}
+p{
+    margin-left: 150px;
+}
+b a{
+    color: white;}
+#sultan {
+    text-align: center;
+    background-color:#303030 ;
+    color: white;
+    margin-top: 70px;
+    padding-bottom: 30px;
+
+}    
+.button {
+    display: inline-block;
+    border-radius: 6px;
+    padding: 6px 20px;
+    line-height: 1.3rem;
+    color: #fff;
+    background-color: #3371e3;
+    text-decoration: none;
+    font-size: 1rem;
+    border: 0;}
+h1{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+#muslims {
+        background-color: whitesmoke;
+        padding-top: 60px;
+        
+        padding-bottom: 60px;
+        padding-right: 230px;
+}
+#gli{
+    max-width: 800px;
+}
+#base{
+    padding-top: 0px;
+}
+#dashbar {
+    font-size: 150%;
+    padding-top: 20px;
+    padding-bottom: 0%;
+}
+img{
+    padding-left: 50px;
+    padding-top: 70px;
+    
+}
+#images {
+    background-color: #fff;
+}
+#pixels{
+    padding-top: 0px;
+}
+#boldes{
+    padding-top: 15px;
+    font-size: 150%;
+}
+#coman{
+    font-size: 150%;
+    padding-top: 100px;
+    margin-left: 40px;
+
+}
+#comane{
+    padding-top: 0px;
+    margin-left: 40px;
+}
+#box{
+    padding-top: 30px;
+    padding-right: 20px;
+    margin-left: 0px;
+}
+#breef{
+    padding-top: 90px;
+    padding-left: 0px;
+    padding-right: 30px;
+    margin-bottom: 150px;
+}
+#scale{
+    font-size: 25px;   
+}
+#section{
+    background-image: url(https://kubernetes.io/_common-resources/images/kub_video_banner_homepage.jpg);
+    width: 100%;
+    position: relative;
+    background-position: 50%;
+    background-size: cover;
+    display: block;
+    height: 500px;
+}
+#langu{
+    padding-top: 40px;
+    color: white;
+}
+#para{
+    margin-left: 0px;
+}
+#showVideo{
+       position: relative; 
+       font-size: 24px;
+       background-color: #fff;
+       border-radius:  8px;
+       color: #3371e3;
+       padding:  15px 30px 15px 80px;
+        margin-bottom: 15px
+}
+#desktopKCButton {
+    position: absolute;
+    font-size: 18px;
+    background-color: #303030;
+    border-radius: 8px;
+    color: #fff;
+    padding: 20px 10px;
+}
+#classs{
+    padding-top: 40px;
+    text-align: center;
+    padding-right: 90px;
+}
+#mond{
+    padding-left: 150px;
+    max-width: 200px;
+}
+.nine {
+    float: left;
+    background-color: white;
+    max-width: 50%;
+    padding-top: 40px;
+    padding-right: 50px;
+    
+}
+#margin{
+    padding-left: 150px;
+}
+#padded{
+    padding-left: 150px;
+    padding-top: 30px;
+}
+#sess{
+    padding-top: 100px;
+    padding-left: 150px;
+}
+#small{
+    padding-left: 150px;
+    padding-top: 60px;
+    padding-right: 20px;
+}
+#child{
+    padding-left: 150px;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 120px;
+}
+
+.pakistan{
+    float: right;
+    background-color: white;
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+
+}
+#pading{
+    padding-top: 70px;
+    padding-right: 50px;
+}
+#zinda{
+    padding-top: 30px;
+    padding-right: 20px;
+}
+#lare{
+    padding-top: 35px;
+}
+#top{
+    padding-top: 65px;
+    padding-bottom: 20px;
+}
+.roll{
+    text-align: center;
+    background-color: white;
+    padding-right: 40px;
+    padding-bottom: 5px;
+}
+.container-fluid{
+    padding-top: 0px;
+
+}
+#pic{
+    padding-left: 30px;
+}
+#chen{
+    font-size: 20px;
+    margin-left: 60px;
+    text-align: center;
+}
+#stop{
+    margin-left: 120px;
+}
+#set{
+    padding-left: 20px;
+}
+#kill{
+    margin-left: 40px;  
+    font-size: 20px;
+}
+#end{
+    margin-left: 90px;
+}
+#mill{
+    padding-left: 20px;
+}
+#shell{
+    margin-left: 40px;  
+    font-size: 20px;
+    text-align: center;
+
+}
+#silk{
+    margin-left: 120px;
+}
+#hil{
+    padding-left: 10px;
+}
+#lil{
+    margin-left: 40px;  
+    font-size: 20px;
+    text-align: center;
+   
+}
+#jil{
+    margin-left: 120px;
+    text-align: center;
+}
+.important{
+    background-color: white;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+}
+.thing{
+    padding-top: 90px;
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    padding-bottom: 150px;
+
+}
+#led{
+    margin-right: 150px;
+}
+#pro{
+    max-width: 370px;
+    padding-top: 0px;
+    padding-right: 60px;
+    padding-bottom: 0%;
+}
+#main-section{
+    background-color:rgb(250, 246, 246);
+    text-align: center;
+    padding-right: 150px;
+    padding-top: 90px;
+    padding-bottom: 150px;
+    font-size: 20px;
+}
+#email{
+        width: 350px;
+        border: 1px solid #ABB0B2;
+        font-size: 15px;
+        border-radius: 3px;
+       color: #343434;
+    background-color: #fff;
+    box-sizing: border-box;
+    height: 32px;
+    padding: 0px 0.4em;
+    display: inline-block;
+    margin-left: 100px;
+}
+#botton{
+    font-size: 13px;
+    border: none;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    letter-spacing: .03em;
+    color: #fff;
+    background-color: #aaa;
+    box-sizing: border-box;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 18px;
+    display: inline-block;
+    margin: 0;
+    cursor: pointer;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.d-print-none{
+    font-weight: 600;
+}
+.footerlinks{
+    background-color: #303030;
+    background-image: url(/images/texture.png);
+    padding: 1rem!important;
+    min-height: initial!important;
+    font-size: 30px;
+    text-align: center;
+}
+#virtue{
+    margin-left: 100px;
+    margin-right: 45px;
+    margin-top: 0px;
+    font-weight: lighter;
+}
+.container-fluid{
+    background-color: #303030;
+}
+.text-white {
+    background-color: #303030;
+    font-size: 60%;
+}
+.extra{
+    font-weight: 400;
+}
+.light-text{
+    color: #fff;
+}
